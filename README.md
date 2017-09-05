@@ -1,17 +1,17 @@
 # React_Boilerplate
 Integrate with Express,React, Material UI, Webpack, React-Router
 
-#clone and go to myapp directory
+Step 1: clone and go to myapp directory
 
-npm install
+Step 2: npm install
 
 # run webpack
 
-webpack
+Step 3: webpack -w
 
 #run server
 
-npm start
+Step 4: npm start
 
 # open page
 
